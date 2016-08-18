@@ -1,19 +1,4 @@
-name: ascribe
-favicon: null
-layout_spectrum: 0.7453
 typography_spectrum: 0.85557
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#17BEBB'
@@ -25,4 +10,20 @@ color:
   lightness: 0.42647787230089307
   saturation: 0.40707675903104246
   rhythmicContrast: 0.6610941577237099
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.7453
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: ascribe
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: AROUND THE WORLD
 purpose: []
